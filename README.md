@@ -1,4 +1,4 @@
-# Spending Habits Analytics_ML*&DS
+# Spending Habits Analytics_ML&DS
 Shop Customer Data is a detailed analysis of a imaginative shop's ideal customers.And I used EDA,Data engineering,data modelling &evaluation. It helps a business to better understand its customers. 
 The owner of a shop gets information about Customers through membership cards.
 
